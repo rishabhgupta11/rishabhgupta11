@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://github.com/rishabhgupta11/rishabhgupta11/blob/main/readme.gif">
+</p>
+
 ### Hi there 👋
 
 <!--
-**rishabhgupta11/rishabhgupta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
