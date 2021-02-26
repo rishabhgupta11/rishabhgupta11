@@ -4,7 +4,7 @@
 
 ## Hey there :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### 😄 Who am I?
+### 🦉 Who am I?
 <code>git commit -m "Hello, I'm a determined and inquisitive computer engineering student."</code>
 
 ### 🌱 What am I currently learning?	
