@@ -8,7 +8,17 @@
 <code>git commit -m "Hello, I'm a determined and inquisitive computer engineering student."</code>
 
 ### 🌱 What am I currently learning?	
-<code>const topics = ["Javascript", "AWS", "MERN-Stack", "PHP"];</code>
+<code>const topics = ["Javascript", "AWS", "MERN-Stack"];</code>
+
+### ⚡ What am I good at?
+<code>* C</code>    
+<code>* C++</code>
+<code>* Python</code>
+<code>* HTML/CSS?Bootstrap</code>
+<code>* PHP</code>  
+<code>* Programming</code>
+<code>* Web Development</code>  
+
 
 <!--
 - 🔭 
