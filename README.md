@@ -2,7 +2,7 @@
   <img src="https://github.com/rishabhgupta11/rishabhgupta11/blob/main/readme.gif">
 </p>
 
-### Hi there 👋
+### Hi there :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!--
 
