@@ -1,8 +1,8 @@
-# Welcome to my Github Profile! :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
 <p align="center">
   <img src="https://github.com/rishabhgupta11/rishabhgupta11/blob/main/banner.jpg">
 </p>
+
+# Welcome to my Github Profile! :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### 🦉 Who am I?
 <code>git commit -m "I'm a computer engineering student and a web development and coding enthusiast."</code>
