@@ -11,12 +11,12 @@
 <code>const topics = ["Javascript", "AWS", "MERN-Stack", "Material-ui"];</code>
 
 ### ⚡ What am I good at?
-<code>C</code>    
+<code>Java</code>    
 <code>C++</code>
 <code>Python</code>
 <code>HTML/CSS/Bootstrap</code>
 <code>PHP</code>  
-<code>Programming</code>
+<code>Backend Development</code>
 <code>Web Development</code>  
 
 
